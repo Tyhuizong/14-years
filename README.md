@@ -10,4 +10,4 @@ Isshinryu Karate is a traditional Okinawan martial art known for its practical s
 2. **Physical Fitness**: Training in Isshinryu Karate improves strength, flexibility, balance, and endurance. It offers a full-body workout that enhances overall fitness and well-being.
 3. **Discipline and Focus**: Practicing Isshinryu Karate cultivates discipline, mental focus, and concentration. It teaches respect for oneself and others, as well as perseverance in the face of challenges.
 
-![Isshinryu Karate](https://example.com/isshinryu-karate-image.jpg)
+![Isshinryu Karate](Karate2024.jpg)
