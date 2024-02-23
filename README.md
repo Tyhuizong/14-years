@@ -1,4 +1,4 @@
-# Isshinryu Karate: My Favorite Activity
+# Your First GitHub Repository & GitHub Pages Site
 
 Welcome to my GitHub Pages site where I share my passion for Isshinryu Karate!
 
