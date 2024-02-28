@@ -1,4 +1,4 @@
-# Your First GitHub Repository & GitHub Pages Site
+# **Sho Dan Sensi**: Second Segree Black Belt
 
 Welcome to my GitHub Pages site where I share my passion for Isshinryu Karate!
 
